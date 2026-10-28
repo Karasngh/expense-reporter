@@ -1,0 +1,6 @@
+{
+  "name": "Expense Reporter - Enterprise Ledger",
+  "description": "Precision enterprise financial ledger with multi-category split allocation, Spring Boot JPA REST sync, budget variance audit, and predictive AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
